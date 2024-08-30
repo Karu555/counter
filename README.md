@@ -1,10 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Counter Application
 
-Currently, two official plugins are available:
+This is a simple React application that demonstrates the use of the useReducer hook for managing state. The application allows users to toggle between light and dark themes. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# counter
-# counter
+# Features 
+
+Counter: Increase and decrease number on click of buttons.
+
+## Installation
+
+### Clone the Repository:
+
+https://github.com/Karu555/counter
+
+### Install Dependencies:
+
+npm install
+
+### Start the Development Server:
+
+npm start
