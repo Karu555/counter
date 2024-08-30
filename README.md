@@ -1,7 +1,8 @@
 
 # Counter Application
 
-This is a simple React application that demonstrates the use of the useReducer hook for managing state. The application allows users to toggle between light and dark themes. 
+This is a simple React application that demonstrates the use of the useReducer hook for managing state. The application allows users to 
+increase and decrease number count on click of buttons 
 
 # Features 
 
